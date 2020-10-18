@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Walcome to fakeFort213 Challenge
 
-You can use the [editor on GitHub](https://github.com/justlife4x4/secured-jetty712.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the 7th challenge of SudoFlaws CTF.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Instructions
 
-### Markdown
+1) To open the challenge you need to paste all the flags in the format `sudoflaws{sometext1},sudoflaws{sometext2},sudoflaws{sometextn_upto n th flag}`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2) After getting the IP donot share it with other players.
 
-```markdown
-Syntax highlighted code block
+3) The box might go down due to severe load. In that case we might add new box or instance.
 
-# Header 1
-## Header 2
-### Header 3
+4) Donot share the flag.
 
-- Bulleted
-- List
+5) Donot harm the box / the testing environment.
 
-1. Numbered
-2. List
+6) If you want to reset the box drop a mail at `aakashadhikari786@gmail.com`
 
-**Bold** and _Italic_ and `Code` text
+7) Start with the following piece of code
 
-[Link](url) and ![Image](src)
+### Code Snippet
+
 ```
+# Walcome to fakeFort213 Challenge
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is the 7th challenge of SudoFlaws CTF.
 
-### Jekyll Themes
+## Instructions
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justlife4x4/secured-jetty712.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1) To open the challenge you need to paste all the flags in the format `sudoflaws{sometext1},sudoflaws{sometext2},sudoflaws{sometextn_upto n th flag}`
 
-### Support or Contact
+2) After getting the IP donot share it with other players.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3) The box might go down due to severe load. In that case we might add new box or instance.
+
+4) Donot share the flag.
+
+5) Donot harm the box / the testing environment.
+
+6) If you want to reset the box drop a mail at `aakashadhikari786@gmail.com`
+
+### Unlock Challenge
+ 
+ Submit your flag:
+ 
+ <html><form action="get-method.php" method="get"> <input type="text" name="firstname" placeholder="First Name" /> <input type="text" name="lastname" placeholder="Last Name" /> <input type="submit" name="submit" /> </form></html> 
+
+### Box IP
+
+127.0.0.1 - fakeFort213 ( Zone: US-EAST 1 N. Virginia )
+```
