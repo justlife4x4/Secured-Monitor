@@ -4,7 +4,7 @@ This is the 7th challenge of SudoFlaws CTF.
 
 ## Instructions
 
-1) To open the challenge you need to paste all the flags in the format `sudoflaws{sometext1},sudoflaws{sometext2},sudoflaws{sometextn_upto n th flag}`
+1) To open the challenge you need to paste all the flags in the correct order
 
 2) After getting the IP donot share it with other players.
 
@@ -14,7 +14,7 @@ This is the 7th challenge of SudoFlaws CTF.
 
 5) Donot harm the box / the testing environment.
 
-6) If you want to reset the box drop a mail at `aakashadhikari786@gmail.com`
+6) If you want to reset the box drop a mail at `aadhikar@students.solano.edu`
 
 7) Start with the following piece of code
 
