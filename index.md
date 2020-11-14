@@ -1,6 +1,6 @@
-# Welcome to secured-jetty712 Challenge
+# Welcome to Secured Monitorr Challenge
 
-This is the 7th challenge of SudoFlaws CTF.
+I guess monitoring the server doesnt cause a harm .. right?
 
 ## Instructions
 
