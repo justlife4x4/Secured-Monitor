@@ -1,22 +1,25 @@
-# Walcome to secured-jetty712 Challenge
+# Welcome to secured-jetty712 Challenge
 
 This is the 7th challenge of SudoFlaws CTF.
 
 ## Instructions
 
-1) To open the challenge you need to paste all the flags in the correct order
+1) To open the challenge you need to paste all the 4 flags in the correct order
 
 2) After getting the IP donot share it with other players.
 
-3) The box might go down due to severe load. In that case we might add new box or instance.
+3) The box might go down due to severe load. In that case we might add new box or instance. 
 
 4) Donot share the flag.
 
 5) Donot harm the box / the testing environment.
 
-6) If you want to reset the box drop a mail at `aadhikar@students.solano.edu`
+6) If you want to reset the box drop a mail at `aakashahdikari786@gmail.com`
 
-7) Start with the following piece of code
+7) Donot delete any files which is pre-loaded in the system.
+
+8) Start with the following piece of code.
+
 
 ### Code Snippet
 
@@ -40,5 +43,17 @@ This is the 7th challenge of SudoFlaws CTF.
 ### Box Credits:
 
 https://twitter.com/dark_haxor
+
+### Donate me:
+
+IF you really liked the box feel free to donate.
+
+Bitcoin `1PgyTpKQ4AcUGVuSJSq5fLXvLjVeputL1g`
+
+Stellar `GAT62OFZ3LUOTSNKKPSB2J6JBW4XU4G2FUKFVTV3U2PPNRSTAQ6XS7V3`
+
+Etherium `0x0CF6EC165D27E1cf65a1360d4D6bCb4233dEd36B`
+
+USD Digital `0x0CF6EC165D27E1cf65a1360d4D6bCb4233dEd36B`
 
 
