@@ -46,7 +46,7 @@ https://twitter.com/dark_haxor
 
 ### Donate me:
 
-IF you really liked the box feel free to donate.
+IF you really liked the box feel free to donate 🙂
 
 Bitcoin `1PgyTpKQ4AcUGVuSJSq5fLXvLjVeputL1g`
 
