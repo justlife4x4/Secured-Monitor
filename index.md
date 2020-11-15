@@ -20,7 +20,7 @@ I guess monitoring the server doesnt cause a harm .. right?
 
 8) Start with the following piece of code.
 
-9) Even though its an AWS instance you cannot gain aws-metadata / or IAM / Security details. If you get by somehow please do drop me a mail along with the POC.
+9) Even though its an AWS instance you cannot get aws-metadata / or IAM / Security details. If you get by somehow please do drop me a mail along with the POC.
 
 
 ### Code Snippet
