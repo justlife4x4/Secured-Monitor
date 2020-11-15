@@ -1,4 +1,4 @@
-# Welcome to Secured Monitorr Challenge
+# Welcome to Secured Monitorr Challenge [Bonus Box]
 
 I guess monitoring the server doesnt cause a harm .. right?
 
@@ -14,11 +14,13 @@ I guess monitoring the server doesnt cause a harm .. right?
 
 5) Donot harm the box / the testing environment.
 
-6) If you want to reset the box drop a mail at `aakashahdikari786@gmail.com`
+6) If you want to reset the box drop a mail at `aakashahdikari786@gmail.com` along with your username.
 
 7) Donot delete any files which is pre-loaded in the system.
 
 8) Start with the following piece of code.
+
+9) Even though its an AWS instance you cannot gain aws-metadata / or IAM / Security details. If you get by somehow please do drop me a mail along with the POC.
 
 
 ### Code Snippet
