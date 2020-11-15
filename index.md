@@ -4,7 +4,7 @@ I guess monitoring the server doesnt cause a harm .. right?
 
 ## Instructions
 
-1) To open the challenge you need to paste all the 4 flags in the correct order
+1) To open the challenge you need to paste all the 3 flags in the correct order.
 
 2) After getting the IP donot share it with other players.
 
@@ -12,7 +12,7 @@ I guess monitoring the server doesnt cause a harm .. right?
 
 4) Donot share the flag.
 
-5) Donot harm the box / the testing environment.
+5) Donot harm the box / the testing environment by installing something!
 
 6) If you want to reset the box drop a mail at `aakashahdikari786@gmail.com` along with your username.
 
